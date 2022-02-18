@@ -1,0 +1,38 @@
+body{
+    font-family: 'Lato', sans-serif;
+}
+
+.container{
+    width: 1200px;
+    margin:auto;
+}
+
+.row{
+    display:flex;
+    flex-wrap: wrap;
+}
+
+.box1{
+    width: 30%;
+    margin: auto;
+    border:solid black 2px;
+    padding: 15px;
+}
+
+.abc{
+    border-width:medium;
+    border-style:solid;
+    border-color: cyan;
+}
+
+.pqr{
+    border-width:medium;
+    border-style:solid;
+    border-color:deeppink;
+}
+
+.xyz{
+    border-width:medium;
+    border-style:solid;
+    border-color:springgreen;
+}
